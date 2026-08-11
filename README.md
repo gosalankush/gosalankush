@@ -34,5 +34,3 @@ I am a Computer Science undergraduate focused on software engineering fundamenta
 ### 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/ankush-gosal](https://linkedin.com/in/ankush-gosal-615a82329)
 - **Email:** gosalankush89@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
