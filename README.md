@@ -26,7 +26,7 @@ I am a Computer Science undergraduate focused on software engineering fundamenta
 ---
 
 ### 📂 Featured Projects
-- **[Project 1 Name](https://github.com/your-username/repo-name)** – Short 1-line description of what it does and the tech used.
+- **[Project 1 Expense Tracker](https://github.com/gosalankush/expense-tracker.git)** – To track daily life expenses.
 - **[Project 2 Name](https://github.com/your-username/repo-name)** – Short 1-line description of what it does and the tech used.
 
 ---
