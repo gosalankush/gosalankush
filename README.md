@@ -26,7 +26,7 @@ I am a Computer Science undergraduate focused on software engineering fundamenta
 ---
 
 ### 📂 Featured Projects
-- **[Project 1 Expense Tracker](https://github.com/gosalankush/expense-tracker.git)** – To track daily life expenses.
+- **[Project 1 Expense Tracker](https://github.com/gosalankush/expense-tracker.git)** – A secure Python CLI application featuring SHA-256 password hashing, monthly/yearly budget management, goal projections, CSV data exports, and Matplotlib visual reports.
 - **[Project 2 Retail Pulse](https://github.com/gosalankush/retail-pulse.git)** – To manage product records easily.
 
 ---
