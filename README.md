@@ -5,7 +5,7 @@ I am a Computer Science undergraduate focused on software engineering fundamenta
 ---
 
 ### 🔭 Current Focus & Learning
-- 💻 Building projects using **Python, C++, Java, and SQL**
+- 💻 Building projects using **Python, C, C++, Java, and SQL**
 - 🌐 Exploring **Computer Networks, Protocol Design, and Autonomous Networking**
 - 🗄️ Deepening knowledge in **Relational Databases and System Architecture**
 - 🎯 Preparing for technical software engineering internships
